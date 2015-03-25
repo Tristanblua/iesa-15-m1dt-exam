@@ -1,0 +1,57 @@
+{"mercure":
+    {"name":"Mercure",
+     "size":"2 440 km",
+     "distance" : "57 910 000 km",
+     "description": "Mercure est la planète la plus proche du Soleil et la moins massive du Système solaire1. Son éloi...",
+     "image": "images/mercure.jpg"
+    },
+  "venus" :
+    {"name":"Venus",
+     "size":"6 052 km",
+     "distance" : "108 200 000 km",
+     "description": "Vénus est la deuxième des huit planètes du Système solaire en partant du Soleil, et la sixième pa...",
+     "image": "images/venus.jpg"
+ 	},
+ 	"terre":
+     {"name":"Terre",
+     "size":"6 371 km",
+     "distance" : "149 500 000 km",
+     "description": "La Terre est une planète du Système solaire, la troisième au regard de la distance au Soleil. Il ...",
+     "image": "images/earth.jpg"
+ 	},
+ 	"mars":
+     {"name":"Mars",
+     "size":"3 390 km",
+     "distance" : "227 900 000 km",
+     "description": "Mars est la quatrième planète par ordre de distance croissante au Soleil et la deuxième par masse...",
+     "image": "images/mars.jpg"
+ 	},
+ 	"jupiter" :
+     {"name":"Jupiter",
+     "size":"69 911 km",
+     "distance" : "778 500 000 km",
+     "description": "Jupiter est une planète géante gazeuse. Il s'agit de la plus grosse planète du Système solaire, p...",
+     "image": "images/jupiter.jpg"
+ 	},
+ 	"saturne" :
+     {"name":"Saturne",
+     "size":"58 232 km",
+     "distance" : "1 433 000 000 km",
+     "description": "Saturne est la sixième planète du Système solaire par ordre de distance au Soleil et la deuxième ...",
+     "image": "images/saturn.jpg"
+ 	},
+ 	"uranus" :
+     {"name":"Uranus",
+     "size":"25 362 km",
+     "distance" : "2 877 000 000 km",
+     "description": "Uranus est une planète géante de glaces de type Neptune froid. Il s'agit de la 7e planète du Syst...",
+     "image": "images/uranus.jpg"
+ 	},
+ 	"neptune":
+     {"name":"Neptune",
+     "size":"24 622 km",
+     "distance" : "4 503 000 000 km",
+     "description": "Neptune est la huitième et dernière planète du Système solaire par distance croissante au Soleil1...",
+     "image": "images/neptune.jpg"
+	}
+}
