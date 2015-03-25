@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Calculator Unit Tests</title>
+ 
+  <link rel="stylesheet" href="qunit/qunit-1.17.1.css">
+  <script src="qunit/qunit-1.17.1.js"></script>
+  <script src="calculator.js"></script>
+ 
+  <script>
+
+  QUnit.test("Calculator behavior", function( assert ) {
+	  var calculator = new Calculator();
+    assert.equal(calculator.result, 0, " init result 0");
+    assert.equal(calculator.add(3), undefined, "should return nothing");
+    assert.equal(calculator.result, 3, "operation on result");
+  });
+  </script>
+</head>
+<body>
+ 
+	<div id="qunit-fixture"></div>
+	<div id="qunit"></div>
+ 
+</body>
+</html>
