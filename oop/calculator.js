@@ -3,5 +3,9 @@ function Calculator(nbr) {
 
 	this.add = function (a) {
 		this.result += a;
+	};
+
+	this.minus = function (a) {
+		this.result -= a;
 	}
 }
