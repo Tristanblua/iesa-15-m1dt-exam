@@ -12,4 +12,8 @@ function Calculator(nbr) {
 	this.divide = function (a) {
 		this.result /= a;
 	}
+
+	this.multiply = function (a) {
+		this.result *= a;
+	}
 }
