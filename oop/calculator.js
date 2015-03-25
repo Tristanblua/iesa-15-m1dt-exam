@@ -8,4 +8,8 @@ function Calculator(nbr) {
 	this.minus = function (a) {
 		this.result -= a;
 	}
+
+	this.divide = function (a) {
+		this.result /= a;
+	}
 }
